@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "me me she",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-01-03T10:33:04.173772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "me me she",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/01_me_me_she_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "me me she",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_me_me_she_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "me me she (BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5])",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_me_me_she_(BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_5_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "me me she",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_me_me_she_RADWIMPS.txt"
+    }
+  ]
+}
